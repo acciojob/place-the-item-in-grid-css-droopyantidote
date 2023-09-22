@@ -5,7 +5,7 @@
   grid-template-rows: repeat(2, 1fr);    /* Two equal rows */
   width: 200px; /* Total size of the grid container */
   height: 200px;
-  gap: 10px; /* Adjust the gap as needed */
+  
 }
 
 /* Optional styling for the grid items */
